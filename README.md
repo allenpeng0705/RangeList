@@ -22,3 +22,6 @@ npm test
 ```
 npm start
 ```
+# Code path
+src/RangList.js
+test/test.js
