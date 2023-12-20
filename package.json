@@ -1,0 +1,16 @@
+{
+  "name": "rangelist",
+  "version": "1.0.0",
+  "description": "It's one demo project for Jerry.AI interview",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app",
+    "test": "mocha"
+  },
+  "keywords": [
+    "javascript",
+    "RangeList"
+  ],
+  "author": "Allen Peng",
+  "license": "ISC"
+}
